@@ -1,0 +1,470 @@
+.header {
+	background-color: rgb(170,170,255);
+	padding-bottom: 150px;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -28px;
+}
+.logo {
+	background-color: rgb(150,130,255);
+	width: 4%;
+	padding-bottom: 60px;
+	margin-left: 120px;
+	margin-bottom: 50px;
+	position: absolute;
+	top: 100px;
+}
+.click {
+	background-color: rgb(150,130,175);
+	width: 2%;
+	cursor: pointer;
+	padding-bottom: 40px;
+	margin-left: 1020px;
+	margin-bottom: 20px;
+	position: absolute;
+	top: 110px;
+}
+.text1{
+    padding: 350px 0px 0px 120px;
+    font-size: 28px;
+}
+.text2{
+    padding: 0px 0px 0px 120px;
+    font-size: 28px;
+}
+.text3{
+    padding: 0px 0px 0px 120px;
+}
+.text4{
+    padding: 0px 0px 0px 120px;
+}
+.onecontent{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.content1_1 {
+	width: 50%;
+	padding-bottom: 350px;
+	background-color: rgb(170,130,255);
+	float: left;
+}
+.content1_2 {
+	width: 50%;
+	padding-bottom: 109px;
+	background-color: rgb(120,130,255);
+	float: left;
+}
+.one_text p{
+	width: 40%;
+	padding-left: 34px;
+	padding-top: 20px;
+	margin-top: 40px;
+}
+.O {
+	margin-bottom: -35px;
+	font-size: 18px;
+}
+.one_text1_1 {
+	margin-bottom: -60px;
+	font-size: 20px;
+}
+.one_text1_2 {
+	font-size: 20px;
+}
+.twocontent{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.content2_1 {
+	width: 25%;
+	padding-bottom: 350px;
+	background-color: rgb(100,130,255);
+	float: left;
+}
+.content2_2 {
+	width: 25%;
+	padding-bottom: 350px;
+	background-color: rgb(170,100,255);
+	float: left;
+}
+.content2_3 {
+	width: 25%;
+	padding-bottom: 350px;
+	background-color: rgb(170,130,100);
+	float: left;
+}
+.content2_4 {
+	width: 25%;
+	padding-bottom: 350px;
+	background-color: rgb(120,170,155);
+	float: left;
+}
+.threecontent{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.content3_1 {
+	width: 50%;
+	padding-bottom: 43px;
+	background-color: rgb(60,60,255);
+	float: left;
+}
+.three_text3_1 p{
+	width: 60%;
+	padding-left: 104px;
+	padding-top: 20px;
+	margin-top: 60px;
+	color: rgb(255, 255, 255);
+}
+.T {
+	margin-bottom: -35px;
+	font-size: 22px;
+}
+.three_text3_2 {
+	margin-bottom: -60px;
+	font-size: 24px;
+}
+.button {
+	border: 2px solid rgb(255, 255, 255);
+    background: rgb(60,60,255);
+    font-size: 14px;
+    padding: 13px 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.content3_2 {
+	width: 25%;
+	padding-bottom: 350px;
+	background-color: rgb(0, 255, 72);
+	float: left;
+}
+.content3_3 {
+	width: 25%;
+	padding-bottom: 350px;
+	background-color: rgb(60,60,255);
+	float: left;
+}
+.fourcontent{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.content4_1 {
+	width: 25%;
+	padding-bottom: 700px;
+	background-color: rgb(255, 0, 0);
+	float: left;
+}
+.content4_2_1 {
+	width: 75%;
+	padding-bottom: 230px;
+	background-color: rgb(181, 188, 255);
+	float: left;
+}
+.content4_2_2 {
+	width: 33.3%;
+	padding-bottom: 86px;
+	background-color: rgb(33, 33, 33);
+	float: left;
+}
+.four_text p{
+	width: 80%;
+	padding-left: 35px;
+	padding-top: 20px;
+	margin-top: 40px;
+}
+.four_text {
+	padding-top: 50px;
+}
+.F1 {
+	margin-bottom: -45px;
+	font-size: 22px;
+	color: rgb(0, 255, 72);
+}
+.F2 {
+	margin-bottom: -35px;
+	font-size: 16px;
+	color: rgb(0, 255, 72);
+}
+.four_text4_1 p {
+    color: rgb(255, 255, 255);
+    margin-bottom: -55px;
+	font-size: 18px;
+}
+.button1 {
+	border: 2px solid rgb(0, 255, 0);
+    background: rgb(33, 33, 33);
+    font-size: 16px;
+    padding: 13px 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    color: rgb(0, 255, 72);
+    cursor: pointer;
+}
+.fivecontent{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.content5_1 {
+	width: 50%;
+	padding-bottom: 109px;
+	background-color: rgb(0, 255, 72);
+	float: left;
+}
+.content5_2 {
+	width: 50%;
+	padding-bottom: 109px;
+	background: rgb(33, 33, 33);
+	float: left;
+}
+.five_text1 p{
+	width: 40%;
+	padding-left: 350px;
+	padding-top: 20px;
+	margin-top: 40px;
+	color: rgb(255, 255, 255);
+}
+.five_text2 p{
+	width: 40%;
+	padding-left: 104px;
+	padding-top: 20px;
+	margin-top: 40px;
+	color: rgb(255, 255, 255);
+}
+.Fi2 {
+	margin-bottom: -35px;
+	font-size: 18px;
+}
+.five_text5_1 {
+	margin-bottom: -60px;
+	font-size: 22px;
+}
+.button2 {
+	border: 2px solid rgb(255, 255, 255);
+    background: rgb(0, 255, 72);
+    font-size: 14px;
+    padding: 13px 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.button3 {
+	border: 2px solid rgb(255, 255, 255);
+    background: rgb(33, 33, 33);
+    font-size: 14px;
+    padding: 13px 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.footercontent {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.contentf_1 {
+    width: 33%;
+	padding-bottom: 140px;
+	background-color: rgb(13, 13, 13);
+	float: left;
+}
+.footer_text1 p{
+	padding-left: 75px;
+	padding-top: 20px;
+	margin-top: 40px;
+}
+.f1 {
+	width: 35%;
+	margin-bottom: -35px;
+	font-size: 18px;
+	color: rgb(255, 255, 255)
+}
+.footer_text1_1 {
+	width: 75%;
+	margin-bottom: -30px;
+	font-size: 16px;
+	color: rgb(87, 87, 87)
+}
+.copyright {
+	width: 75%;
+	margin-bottom: -60px;
+	font-size: 16px;
+	color: rgb(87, 87, 87)
+}
+.contentf_2 {
+	width: 28%;
+	padding-bottom: 161px;
+	background-color: rgb(13, 13, 13);
+	float: left;
+}
+.footer_text2_1 p{
+	padding-left: 75px;
+	padding-top: 20px;
+	margin-top: 40px;
+}
+.f2 {
+	width: 50%;
+	margin-bottom: -35px;
+	font-size: 18px;
+	color: rgb(255, 255, 255)
+}
+.footer_text2_1_1 {
+	width: 48%;
+    margin-bottom: -35px;
+    color: rgb(87, 87, 87)
+}
+.footer_text2_1_2 {
+	width: 44%;
+	color: rgb(87, 87, 87)
+}
+.footer_text2_2 p{
+	width: 50%;
+}
+.f3 {
+	padding-top: 10px;
+	margin-top: 40px;
+	padding-left: 75px;
+	margin-bottom: -50px;
+	font-size: 18px;
+	color: rgb(255, 255, 255);
+}
+.icon1 {
+    background-color: rgb(150,130,175);
+	width: 2%;
+	padding-bottom: 20px;
+	margin-left: 75px;
+	margin-top: 78px;
+}
+.footer_text2_2_1 {
+	padding-top: 20px;
+	margin-top: -38px;
+	margin-bottom: -70px;
+    font-size: 14px;
+    padding-left: 100px;
+    color: rgb(112, 112, 112);
+}
+.icon2 {
+    background-color: rgb(150,130,175);
+	width: 2%;
+	padding-bottom: 20px;
+	margin-left: 75px;
+	margin-top: 78px;
+}
+.footer_text2_2_2 {
+	padding-top: 20px;
+	margin-top: -38px;
+	margin-bottom: -70px;
+	font-size: 14px;
+	padding-left: 100px;
+	color: rgb(112, 112, 112);
+}
+.icon3 {
+    background-color: rgb(150,130,175);
+	width: 2%;
+	padding-bottom: 20px;
+	margin-left: 75px;
+	margin-top: 78px;
+}
+.footer_text2_2_3 {
+	padding-top: 20px;
+	margin-top: -38px;
+	margin-bottom: -70px;
+	font-size: 14px;
+	padding-left: 100px;
+	color: rgb(112, 112, 112);
+}
+.icon4 {
+    background-color: rgb(150,130,175);
+	width: 2%;
+	padding-bottom: 20px;
+	margin-left: 75px;
+	margin-top: 78px;
+}
+.footer_text2_2_4 {
+	padding-top: 20px;
+	margin-top: -38px;
+	margin-bottom: -70px;
+	font-size: 14px;
+	padding-left: 100px;
+	color: rgb(112, 112, 112);
+}
+.contentf_3 {
+	width: 39%;
+	padding-bottom: 79px;
+	background-color: rgb(13, 13, 13);
+	float: left;
+}
+.footer_text3_1 p{
+	width: 70%;
+	padding-top: 20px;
+	margin-top: 40px;
+}
+.f4 {
+	margin-bottom: -35px;
+	font-size: 18px;
+	color: rgb(255, 255, 255);
+}
+.footer_text3_1_1 {
+    color: rgb(87, 87, 87);
+}
+.textbox {
+	padding-left: 15px;
+    width: 330px;
+    height: 50px;
+    font-size: 16px;
+    float: left;
+    color: rgb(112, 112, 112);
+    background-color: rgb(87, 87, 87);
+    border: 1px solid rgb(87, 87, 87);
+}
+.enter {
+    background-color: rgb(87, 87, 87);
+	width: 54px;
+	padding-bottom: 54px;
+	float: left;
+	cursor: pointer;
+}
+.footer_text3_2 p{
+	width: 70%;
+	padding-top: 120px;
+	color: rgb(255, 255, 255);
+}
+.f5 {
+	margin-bottom: -20px;
+	font-size: 18px;
+}
+.logo_icon1 {
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(13, 13, 13);
+    margin-top: 45px;
+	width: 64px;
+	padding-bottom: 64px;
+	float: left;
+}
+.logo_icon2 {
+	border: 1px solid rgb(255, 255, 255);
+	background-color: rgb(13, 13, 13);
+    margin-top: 45px;
+    margin-left: 20px;
+	width: 64px;
+	padding-bottom: 64px;
+	float: left;
+}
+.logo_icon3 {
+	border: 1px solid rgb(255, 255, 255);
+	background-color: rgb(13, 13, 13);
+    margin-top: 45px;
+    margin-left: 20px;
+	width: 64px;
+	padding-bottom: 64px;
+	float: left;
+}
